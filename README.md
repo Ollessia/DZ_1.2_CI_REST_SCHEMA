@@ -1,1 +1,1 @@
-# DZ_1.2_CI_REST_SCHEMA
+
